@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "l7KMH4AWKTHHJbbn/5knXQy2yPL8aQnqfS52gvfHnCult82VX40pR6Uvy9/PYgd+sAFn8HCGUZ6To7UcPPxL4A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\badmu\\Documents\\Unity_Projects\\Hololens2\\Assets\\MRTK\\Providers\\WindowsMixedReality\\Shared\\DotNetAdapter\\DotNetAdapter.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\badmu\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.0\\microsoft.netframework.referenceassemblies.1.0.0.nupkg.sha512",
+    "C:\\Users\\badmu\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net46\\1.0.0\\microsoft.netframework.referenceassemblies.net46.1.0.0.nupkg.sha512",
+    "C:\\Users\\badmu\\.nuget\\packages\\microsoft.windows.mixedreality.dotnetwinrt\\0.5.1049\\microsoft.windows.mixedreality.dotnetwinrt.0.5.1049.nupkg.sha512",
+    "C:\\Users\\badmu\\.nuget\\packages\\system.drawing.primitives\\4.3.0\\system.drawing.primitives.4.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
